@@ -1,3 +1,5 @@
+Author: Shae Eastman and Leigh Pember
+
 This is a Script created for Greasemonkey but can be used in Chrome as well (Intructions below) 
 
 That disables the warning banner that one encounters when they have a cluster size of 3 or less in 
